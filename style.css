@@ -9,3 +9,8 @@ body {
   /* This centers our sketch vertically. */
   align-items: center;
 } 
+
+button {
+	position: absolue;
+	bottom: 0;
+}
